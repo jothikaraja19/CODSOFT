@@ -1,0 +1,26 @@
+# Task 4 - Currency Converter
+
+This Java program is a **Currency Converter** that allows users to convert an amount from one currency to another using fixed or real-time exchange rates (if API integration is added).
+
+## ✅ Features
+
+- User can select:
+  - Base currency (e.g., USD, INR, EUR)
+  - Target currency
+- Accepts input amount for conversion
+- Converts the amount using a predefined exchange rate
+- Displays the result in target currency
+- Can be extended to use real-time exchange rates via an API
+
+## 🧠 Concepts Used
+
+- Conditional statements
+- Loops
+- Functions/methods
+- (Optional) API requests with `HttpURLConnection`
+
+## 📌 How to Run
+
+1. Compile the program:
+   ```bash
+   javac CurrencyConverter.java

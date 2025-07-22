@@ -1,0 +1,29 @@
+# Task 3 - ATM Interface
+
+This Java program simulates an **ATM (Automated Teller Machine)** interface. It allows a user to perform basic banking operations like checking balance, withdrawing money, and depositing funds.
+
+## ✅ Features
+
+- Simple user interface using console
+- Options include:
+  - Check balance
+  - Deposit money
+  - Withdraw money
+  - Exit
+- Validates user input:
+  - Prevents withdrawal of more than available balance
+  - Handles invalid choices or inputs
+
+## 🧠 Concepts Used
+
+- Object-Oriented Programming (OOP)
+  - Classes & Objects
+  - Encapsulation
+- Methods and input validation
+- Loops & conditional statements
+
+## 📌 How to Run
+
+1. Compile the program:
+   ```bash
+   javac ATMInterface.java
